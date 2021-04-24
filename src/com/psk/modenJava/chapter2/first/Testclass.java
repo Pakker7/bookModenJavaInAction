@@ -1,4 +1,4 @@
-package com.psk.modenJava.chapter2;
+package com.psk.modenJava.chapter2.first;
 
 
 import java.util.Arrays;

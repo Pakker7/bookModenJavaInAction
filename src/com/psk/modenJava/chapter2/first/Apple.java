@@ -1,4 +1,4 @@
-package com.psk.modenJava.chapter2;
+package com.psk.modenJava.chapter2.first;
 
 import lombok.Builder;
 import lombok.Getter;
@@ -9,7 +9,7 @@ import lombok.Setter;
 public class Apple {
     private String name;
     private Color color;
-    private int weight;
+    private Integer weight;
 
     @Builder
     public Apple(String name, Color color, int weight) {

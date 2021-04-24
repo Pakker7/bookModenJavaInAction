@@ -1,4 +1,4 @@
-package com.psk.modenJava.chapter2;
+package com.psk.modenJava.chapter2.first;
 
 
 public class AppleRedAndHeavyPredicate implements ApplePredicate{
